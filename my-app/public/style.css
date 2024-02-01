@@ -1,0 +1,9 @@
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+    border-bottom: 5px solid black;
+}
+.img{
+    height: 100px;
+    width: 100px;
+}
